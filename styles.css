@@ -1,0 +1,47 @@
+body{
+    background-color:#555879;
+}
+#header{
+  font-family: "Rubik", sans-serif;
+  color:rgb(238, 237, 174);  
+}
+label{
+    font-family: "Rubik", sans-serif;
+    position:absolute;
+    top:180px;
+    left:430px;
+    font-size:20px;
+    color:azure
+}
+#input{
+    background-color:rgb(244, 235, 211);
+    height:25px;
+    width:300px;
+    border:0px;
+    border-radius:7px;
+    position:absolute;
+    bottom:700px;
+    left:350px;
+}
+button{
+    position:absolute;
+    bottom:650px;
+    left:450px;
+    background-color:#DED3C4;
+    height:25px;
+    border:0px;
+    border-radius:7px;
+}
+img{
+    margin-top:150px;
+    margin-left:40px;
+}
+.field{
+    
+    padding:50px;
+    height:500px;
+    width:300px;
+    margin-left:300px;
+    background-color:#98A1BC;
+    border-radius:10px;
+}
