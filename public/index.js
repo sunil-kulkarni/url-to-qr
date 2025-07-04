@@ -2,7 +2,7 @@
 $("#generate").on("click", function () {
   const url = $("#input").val().trim();
   if (!url) {
-    alert("Please enter a URL");
+    alert("Please enter a valid URL");
     return;
   }
 
